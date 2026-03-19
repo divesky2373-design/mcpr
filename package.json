@@ -1,0 +1,28 @@
+{
+  "name": "mcpr",
+  "version": "0.1.0",
+  "description": "MCP Registry Protocol — register, discover, and install MCP servers",
+  "type": "module",
+  "bin": {
+    "mcpr": "./bin/mcpr.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "keywords": [
+    "mcp",
+    "registry",
+    "protocol",
+    "ai",
+    "agent"
+  ],
+  "author": {
+    "name": "yy兄弟",
+    "url": "https://erlich.fun"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
